@@ -10,14 +10,14 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 
-🌍 Geographer
+🌍 Geographer  
 📌 Federal University of Paraná - UFPR
 
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="[https://seu-website.com](https://orcid.org/0000-0002-1728-659X)">
-<strong>Visit my personal website</strong>
+<a href="https://orcid.org/0000-0002-1728-659X">
+<strong>Visit my ORCID profile</strong>
 <br />
 <br />
 <br />
@@ -29,7 +29,6 @@
 </tr>
 </table>
 
-
-
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheLastEnvoy.TheLastEnvoy)
+
+</div>
