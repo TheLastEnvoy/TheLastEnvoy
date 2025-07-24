@@ -1,7 +1,5 @@
 <div align="center">
 
-# greetings
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLastEnvoy&show_icons=true&theme=transparent)
 
 ## Languages
