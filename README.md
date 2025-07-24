@@ -10,7 +10,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 
-📚 Geographer
+🌍 Geographer
 📌 Federal University of Paraná - UFPR
 
 </div>
