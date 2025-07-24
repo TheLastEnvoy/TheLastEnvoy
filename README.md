@@ -21,10 +21,13 @@
 <br />
 <br />
 <br />
+
 <p>
+
 <img alt="Globe" height="80" src="images/globe.gif">
-</p>
 </a>
+</p>
+
 </td>
 </tr>
 </table>
