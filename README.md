@@ -13,4 +13,23 @@
 🌍 Geographer
 📌 Federal University of Paraná - UFPR
 
-</div>
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://seu-website.com">
+<strong>Visit my personal website</strong>
+<br />
+<br />
+<br />
+<p>
+<img alt="Globe" height="80" src="images/globe.gif">
+</p>
+</a>
+</td>
+</tr>
+</table>
+
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheLastEnvoy.TheLastEnvoy)
