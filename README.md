@@ -1,6 +1,6 @@
 <div align="center">
 
-# the last envoy stats
+# greetings
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLastEnvoy&show_icons=true&theme=transparent)
 
@@ -13,6 +13,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 
 📚 Geographer
-📌 Universidade Federal do Paraná - UFPR (Federal University of Paraná)
+📌 Federal University of Paraná - UFPR
 
 </div>
